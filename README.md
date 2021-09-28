@@ -2,7 +2,7 @@
 
 # Issue
 
-when a Flutter project is run in release mode on the web, debugPrint() prints to the console surfacing print statements used for debuging purposes.
+When a Flutter project is run in release mode on the web, debugPrint() prints to the console surfacing print statements used for debuging purposes.
 
 
 ## Reproduction Steps
